@@ -1,3 +1,5 @@
+// for-Each :- This method is a more concise way to iterate through an array. The forEach method takes a callback function as its argument, which is called on each element in the array.
+
 const coding = ["js", "ruby", "java", "C++", "Kotlin"];
 
 // coding.forEach(function (val) {

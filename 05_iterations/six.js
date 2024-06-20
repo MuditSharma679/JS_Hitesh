@@ -1,4 +1,4 @@
-// for-each : return value is undefined.
+// **for-each : return value is undefined.
 // const coding = ["js", "ruby", "java", "C++", "Kotlin"];
 
 // const values = coding.forEach((item) => {
@@ -22,6 +22,8 @@ const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // });
 
 // console.log(newNums);
+
+// *** Filter :-  The filter method is used to filter an array based on a certain condition. The filter method takes a callback function as its argument, which is called on each element in the array. If the function returns true, the element is included in the new filtered array.
 
 const books = [
   { title: "Book One", genre: "Fiction", publish: 1981, edition: 2004 },

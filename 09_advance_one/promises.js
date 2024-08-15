@@ -1,3 +1,5 @@
+// new is a construction function.
+
 const promiseOne = new Promise(function (resolve, rejected) {
   // Do an async task
   // DB calls, cryptopgraphy, network
